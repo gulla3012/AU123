@@ -4,4 +4,7 @@
  */
 public class test3 {
 
+	
+//comment 
+int x;	
 }
