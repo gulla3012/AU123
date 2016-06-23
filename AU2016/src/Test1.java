@@ -4,4 +4,5 @@
  */
 public class Test1 {
 int z;
+int y;
 }

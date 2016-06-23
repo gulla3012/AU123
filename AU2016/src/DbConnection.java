@@ -1,17 +1,16 @@
-
+/**
+ * The Class DbConnection.
+ */
 public class DbConnection {
 
-	/**
-	 * Creates the db connection.
-	 *
-	 * @param noOfConnections the no of connections
-	 * @return true, if successful
-	 */
-	boolean createDbConnection(int noOfConnections){
-				return true;
-		
+	boolean createDbConnection(int noOfConnections) {
+		return true;
+
 	}
-	
-	
-	
+
+	int additionOfThreeNumbers(int firstNumber, int secondNumber, int thirdNumber) {
+
+		return firstNumber + secondNumber + thirdNumber;
+
+	}
 }
