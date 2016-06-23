@@ -11,5 +11,7 @@ int y;
 int y ;
 
 
+int z ;
+
 
 }
